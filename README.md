@@ -1,1 +1,1 @@
-# semester-1
+# semester-1  all first semester c code
